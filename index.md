@@ -54,7 +54,7 @@ We invite submissions including but not limited to the following topics:
 
 - **Notification of acceptance**: 2024/08/15
 
-- **Camera ready**: 2024/08/31
+- **Camera ready**: 2024/08/25s
 
 - **Workshop date**: 2024/09/29 or 2024/09/30
 
