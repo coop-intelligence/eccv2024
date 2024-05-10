@@ -3,36 +3,26 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: "1st Workshop on Wearable Intelligence for Healthcare Robotics (WIHR): from Brain Activity to Body Movement"
+title: "1st Workshop on Cooperative Intelligence for Autonomous Driving and Robotics"
 list_title: Home
 layout: home
 ---
-<p style="text-align: center;"><font size="5"><a href="https://2024.ieee-icra.org/">2024 IEEE International Conference on Robotics and Automation in PACIFICO Yokohama, Japan</a>
+<p style="text-align: center;"><font size="5"><a href="https://2024.ieee-icra.org/">The 18th European Conference on Computer Vision 2024 in Milan, Italy</a>
 </font></p>
-<p style="text-align: center;"><font size="5">May 17th, 2024</font></p>
+<p style="text-align: center;"><font size="5">Sep 29th - Oct 04th, 2024</font></p>
 <!-- <p style="text-align: center;"><font size="5">Location: Sequoia 1</font></p> -->
-<p style="text-align: center;"><font size="4">[<a href="">Youtube</a>] [<a href="https://discord.gg/yqjTtBmUJC">Discord</a>] [<a href="https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/WIHR">OpenReview</a>]</font></p>
+<!-- <p style="text-align: center;"><font size="4">[<a href="">Youtube</a>] [<a href="https://discord.gg/yqjTtBmUJC">Discord</a>] [<a href="https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/WIHR">OpenReview</a>]</font></p> -->
 <!-- <p style="text-align: center;"><font size="4">Recording available at: <a href="">Youtube</a></font></p> -->
 
-The integration of artificial intelligence, wearable technologies, and robotics signifies a paradigm shift in healthcare, ushering in an era of personalized and pervasive digital health solutions. This pivotal intersection seamlessly melds real-time data acquisition, cutting-edge analytics, and precision-driven robotic interventions, together reshaping the very fabric of patient care. A spectrum of sensing modalities, from intricate brain-machine interfaces to dynamic muscle-machine interactions and advanced vision-based signals, offers a holistic understanding of the physiological and biomechanical intricacies inherent to the human body. These profound insights not only demystify cognitive processes and potential neurological anomalies but also set the stage for proactive interventions, particularly in the realms of rehabilitation/assistive, social, as well as surgical robotics. This workshop endeavors to dissect the multifaceted nature of this symbiotic integration, illuminating challenges, innovations, and the vast potential of a healthcare domain enriched by wearables and robotics. Our objective is to bridge the chasm between AI insights, wearable intelligence, and robotic precision, envisioning a healthcare future that’s seamlessly attuned to individual needs.
+The progress in artificial intelligence has propelled the development of autonomous systems, particularly in autonomous driving and robotics. However, achieving autonomy in complex and open environments remains challenging for individual agents. This is where cooperative intelligence comes in, a paradigm where agents collaborate and interact with infrastructure equipment to handle diverse tasks effectively. In autonomous driving, the availability of datasets and breakthrough algorithms has spurred research interest in cooperative autonomous driving. Through Vehicle-to-Everything (V2X) interactions including Vehicleto-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I), autonomous vehicles can improve their perception and safety capabilities, surpassing the limitations of single-vehicle autonomy and paving the way for widespread adoption. Similarly, in robotics, recent advancements in multi-agent systems offer a cost-effective solution for exploring unknown environments. These breakthroughs empower robots to assist humans in navigating challenging tasks within open environments. Despite notable progress, the challenges of coordinating multi-agent systems remain insufficiently explored. Issues like determining what information to transmit, how to transmit it, and how to fuse information across different task levels (perception, prediction, planning, etc.) pose practical deployment hurdles. Recent breakthroughs in large language models and foundational models offer a promising avenue for addressing these challenges. This workshop, complementing existing workshops focused on individual intelligence in autonomous driving and robotics, introduces a fresh perspective. It fosters discussions on a comprehensive, system-level approach to cooperative framework design for autonomous agents across diverse domains.
 
 ![](assets/img/banner.jpg)
 
-Driven by these observations and reflections, our workshop stands at the forefront of healthcare innovation. It will delve into several interconnected domains, each providing distinct perspectives and strategies to revolutionize the field of healthcare robotics.
+Specifically, this workshop aims to address the following issues regarding cooperative intelligence:
+- **The value and prospects** of cooperative intelligence for autonomous driving and robotics.
+- **The challenges and recent advancements** in cooperative intelligence within multi-agent autonomous systems.
+- **The foundation models application** for multi-agent autonomous systems.
 
-We aim to discuss questions including, but not limited to:
-
-- **Paradigms**: What new paradigms are being explored to develop innovative wearable solutions in healthcare robotics?
-- **Algorithms**: What recent breakthroughs in AI have enhanced the capabilities of wearable intelligence in healthcare?
-- **Data-Driven Approaches**: What are the most effective practices for learning from real-world and simulated data in healthcare robotics?
-- **Efficient Learning**: How can we optimize the process of collecting and learning from real-world data in healthcare robotics?
-- **Adaptability**: How can the design of healthcare wearable robotics be evolved to offer greater personalization and adaptability?
-- **Interdisciplinary Integration**: How can cognitive science, neuroscience, and genetics be integrated to advance wearable intelligence and healthcare robotics?
-- **Foundation Models**: What role can foundation models play in supporting wearable intelligence and healthcare robotics?
-- **Human-Robot Interaction**: How can human-robot interaction be enhanced to improve patient comfort and trust in healthcare settings?
-- **Applications**: How can AI and machine learning be leveraged in robotics for predictive healthcare and early diagnosis?
-- **Ethics, Privacy, and Safety**: How can ethical considerations, patient privacy, and safety be prioritized in the development and implementation of wearable intelligence and healthcare robotics?
-- **Future Prospects and Challenges**: What does the future hold for the use of wearable intelligence and robots in healthcare, and what are the associated challenges?
 
 
 &nbsp;
@@ -43,109 +33,100 @@ We aim to discuss questions including, but not limited to:
 
 We invite submissions including but not limited to the following topics:
 
-- Cutting-edge wearable sensory technologies for healthcare robotics.
-- Principles of human-centered design in healthcare wearable robotics.
-- Integration of the Internet of Things (IoT) in healthcare wearable robotics.
-- Fusion of multi-modal sensing technologies for wearable intelligence and healthcare robots.
-- AI-based analysis of human movement.
-- AI-based assessment of cognitive states.
-- AI-based prediction of human intentions.
-- AI-driven approaches in human-robot interaction.
-- Personalized adaptive strategies for robotic interventions and assistance.
-- Personalized monitoring of wearable devices.
-- Monitoring system for intelligent cockpit.
-- Tailored adaptive strategies for rehabilitation training.
-- Customized strategies for real-time human-robot interaction.
-- Data-driven learning approaches to address variations in individuals or subpopulations.
-- Adaptive control policies for individual or subpopulation variances.
-- Incorporating cognitive science, neuroscience, and genetics to enhance healthcare robotics.
-- Ethics, privacy, and safety of wearable intelligence and healthcare robotics
-- Emerging AR/VR/MR technologies for wearable intelligence and healthcare robotics
-- LLM-based Agents for wearable intelligence and healthcare robotics
-- Novel datasets and benchmarks for advancing wearable intelligence and healthcare robotics
-- Future and challenges of wearable intelligence for healthcare robotics
+- Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I)
+- Multi-agent Robotic System / Swarm Robots
+- Communication-Efficient Cooperative Perception
+- Cooperative Motion Prediction and Decision-Making
+- End-to-End Cooperative Policy Learning
+- Efficient and Intelligent V2X Communication
+- Data Security and Privacy in Multi-agent Communication
+- Multi-Robot Exploration and Mapping
+- Intelligent Transportation System
+- Large Language Model (LLM)-assisted Cooperative System
+- Foundation models for Cooperative System
+- Datasets and Benchmarks for Cooperative Learning
 
 
 **Important Dates**
-- **Paper submission open**: 2024/01/01
+- **Paper submission open**: 2024/06/01
 
-- **Paper submission deadline**: 2024/04/03 PST
+- **Paper submission deadline**: 2024/07/31 PST
 
-- **Notification of acceptance**: 2024/04/07
+- **Notification of acceptance**: 2024/08/15
 
-- **Camera ready**: 2024/05/03
+- **Camera ready**: 2024/08/31
 
-- **Workshop date**: 2024/05/17
+- **Workshop date**: 2024/09/29 or 2024/09/30
 
-- **Submission portal**: [ICRA 2024 Workshop WIHR (OpenReview)](https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/WIHR).
+**Submission Guidance**
+- **Submission portal**: [ECCV 2024 Workshop Co-Intelligence (OpenReview)](https://openreview.net/group?id=IEEE.org/2024/ECCV/Workshop/co-intelligence).
 
-We expect submissions with 2 - 8 pages for the main content, with no limit on references/appendices. Submissions are suggested to use the [IEEE template](https://ras.papercept.net/conferences/support/support.php). All papers will be peer-reviewed in a double-blind manner. We welcome both unpublished original contributions and recently published relevant works. Accepted papers will be presented in the form of posters, with several papers being selected for spotlight sessions. The <b><font color=red>Best Presentation Award</font></b> and <b><font color=red>Best Poster Award</font></b> will be presented to honor exceptional contributions among the accepted submissions, with a cash prize of <b>300 US dollors</b> for each award.
-
-NEWS: Excellent works are invited to submit an extended version to the special issue on SPJ Cyborg and Bionic Systems: [Emerging Trends in Wearable Technologies, AI, and Robotics for Pervasive Healthcare](https://spj.science.org/page/cbsystems/si/emerging-trends-in-wearable-technologies-ai-and-robotics-for-pervasive-healthcare) 
+- **Submission format**:
+Submissions must follow the ECCV 2024 template ([here](https://eccv2024.ecva.net/Conferences/2024/SubmissionPolicies)) and will be peer-reviewed in a double-blind manner. Submission must be no more than 14 pages (excluding references). By default, accepted papers will be included in the ECCV workshop proceedings. Accepted papers will be presented in the form of posters, with several papers being selected for spotlight sessions. The <b><font color=red>Best Paper Award</font></b> and <b><font color=red>Best Paper Nomination</font></b> will receive a cash prize of <b>500 US dollors</b> and <b>300 US dollors</b>, respectively.
 
 **Contact**
 
-If you have any questions, please contact us at: wearable-intelligence@googlegroups.com.
+If you have any questions, please contact us at: coop-intelligence@googlegroups.com or yuhaibao94@gmail.com.
 
 &nbsp;
 &nbsp;
-### Invited Speakers
+### Invited Speakers (TBD)
 &nbsp;
 
 <div class="grid">
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/zijian_wang.jpg" width="200"/>
-        <figcaption><b><a href="https://scholar.google.com/citations?user=XC8CHRMAAAAJ&hl=en">Zijian Wang</a></b><br>Meta</figcaption>
+        <figcaption><b><a href="https://scholar.google.com/citations?user=XC8CHRMAAAAJ&hl=en">Jiaqi Ma</a></b><br>UCLA, USA</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/yuzhe_yang.jpg" width="200" /> 
-        <figcaption><b><a href="https://www.mit.edu/~yuzhe/">Yuzhe Yang</a></b><br>MIT</figcaption>
+        <figcaption><b><a href="https://www.mit.edu/~yuzhe/">Alois Knoll</a></b><br>TUM, Germany</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/george_mylonas.jpg" width="200" />
-        <figcaption><b><a href="https://www.imperial.ac.uk/people/george.mylonas">George Mylonas</a></b><br>Imperial College London</figcaption>
+        <figcaption><b><a href="https://www.imperial.ac.uk/people/george.mylonas">Hang Qiu</a></b><br>UCR, USA</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/etienne_burdet.jpg" width="200" />
-        <figcaption><b><a href="https://www.imperial.ac.uk/people/e.burdet">Etienne Burdet</a></b><br>Imperial College London</figcaption>
+        <figcaption><b><a href="https://www.imperial.ac.uk/people/e.burdet">Gui. Sartoretti</a></b><br>NUS, Singapore</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/jasmin-e-palmer.jpg" width="200" />
-        <figcaption><b><a href="https://profiles.stanford.edu/jasmin-e-palmer">Jasmin E. Palmer
-</a></b><br>Stanford University</figcaption>
+        <figcaption><b><a href="https://profiles.stanford.edu/jasmin-e-palmer">Sheng Zhou
+</a></b><br>Tsinghua University, China</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/brokoslaw_laschowski.png" width="200" />
-        <figcaption><b><a href="https://kite-uhn.com/scientist/brokoslaw-laschowski">Brokoslaw Laschowski</a></b><br>Toronto Rehabilitation Institute & University of Toronto</figcaption>
+        <figcaption><b><a href="https://kite-uhn.com/scientist/brokoslaw-laschowski">Amanda Prorok</a></b><br>Cambridge University, UK</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/jinsoo_kim.jpg" width="200" />
-        <figcaption><b><a href="https://scholar.google.com/citations?user=4uU8UXAAAAAJ&hl=en">Jinsoo Kim</a></b><br>Seoul National University</figcaption>
+        <figcaption><b><a href="https://scholar.google.com/citations?user=4uU8UXAAAAAJ&hl=en">Zsolt Kira</a></b><br>Gatech, USA</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/ruohan_zhang.jpg" width="200" />
-        <figcaption><b><a href="https://ai.stanford.edu/~zharu/">Ruohan Zhang</a></b><br>Stanford University</figcaption>
+        <figcaption><b><a href="https://ai.stanford.edu/~zharu/">Manabu Tsukada</a></b><br>University of Tokyo, Japan</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/daniel_yamins.jpg" width="200" />
-        <figcaption><b><a href="https://profiles.stanford.edu/daniel-yamins">Daniel Yamins</a></b><br>Stanford University</figcaption>
+        <figcaption><b><a href="https://profiles.stanford.edu/daniel-yamins">Marco Pavone</a></b><br>Standford University, USA</figcaption>
         </figure>
     </div>
     <!-- <div class="grid-item">
@@ -226,97 +207,11 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
     </div>
 </div>
 
-### Scientific Advisory Board
-&nbsp;
-<div class="grid">
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/advisory_board/lei_xing.jpg" width="200"/>
-        <figcaption><b><a href="https://profiles.stanford.edu/lei-xing">Lei Xing</a></b><br>Stanford University</figcaption>
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/advisory_board/patrick_slade.jpg" width="200"/>
-        <figcaption><b><a href="https://seas.harvard.edu/person/patrick-slade">Patrick Slade</a></b><br>Harvard University</figcaption>
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/advisory_board/wei_gao.jpg" width="200"/>
-        <figcaption><b><a href="https://www.eas.caltech.edu/people/weigao">Wei Gao</a></b><br>Caltech</figcaption>
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/advisory_board/john_rogers.jpg" width="200"/>
-        <figcaption><b><a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-john.html">John A. Rogers</a></b><br>Northwestern University</figcaption>
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/advisory_board/phengann_heng.png" width="200"/>
-        <figcaption><b><a href="https://www.cse.cuhk.edu.hk/~pheng/">Pheng Ann Heng</a></b><br>CUHK</figcaption>
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/advisory_board/liangjun_zhang.jpg" width="200"/>
-        <figcaption><b><a href="https://www.cs.unc.edu/~zlj/">Liang-Jun Zhang</a></b><br>Baidu</figcaption>
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/advisory_board/peter_shull.jpg" width="200"/>
-        <figcaption><b><a href="https://www.wearablesystems.org/people#/peter-shull">Peter Shull</a></b><br>Shanghai Jiao Tong University</figcaption>
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/advisory_board/eric_yeatman.png" width="200"/>
-        <figcaption><b><a href="https://www.imperial.ac.uk/people/e.yeatman">Eric Yeatman</a></b><br>Imperial College London</figcaption>
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/advisory_board/raymond_tong.png" width="200"/>
-        <figcaption><b><a href="http://www.bme.cuhk.edu.hk/kytong/">Raymond Tong</a></b><br>CUHK</figcaption>
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/advisory_board/david_clifton.png" width="200"/>
-        <figcaption><b><a href="https://eng.ox.ac.uk/people/david-clifton/">David Clifton</a></b><br>University of Oxford</figcaption>
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/advisory_board/david_camarillo.jpg" width="200"/>
-        <figcaption><b><a href="https://med.stanford.edu/profiles/david-camarillo">David Camarillo</a></b><br>Stanford University</figcaption>
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/advisory_board/susan_murphy.jpg" width="200"/>
-        <figcaption><b><a href="https://people.seas.harvard.edu/~samurphy/">Susan A. Murphy</a></b><br>Harvard University</figcaption>
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/advisory_board/scott_delp.jpg" width="200"/>
-        <figcaption><b><a href="https://nmbl.stanford.edu/people/scott-delp/">Scott L. Delp</a></b><br>Stanford University</figcaption>
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/advisory_board/conor_walsh.png" width="200"/>
-        <figcaption><b><a href="https://biodesign.seas.harvard.edu/conor-walsh">Conor Walsh</a></b><br>Harvard University</figcaption>
-        </figure>
-    </div>
-</div>
+### Scientific Advisory Board (TBD)
 &nbsp;
 
-### Program Committee
+
+### Program Committee (TBD)
 &nbsp;
 
 <div class='grid'>
@@ -346,26 +241,5 @@ If you have any questions, please contact us at: wearable-intelligence@googlegro
 </div>
 
 
-### Sponsors
+### Sponsors (TBD)
 &nbsp;
-
-<div class="grid">
-    <div class="gridorg-item">
-        <figure>
-        <a href="https://www.intel.com/"><img src="assets/img/sponsors/Intel_logo_2023.png" width="200"/></a>
-        <!-- <figcaption><b><a href="https://www.intel.com/">Intel</a></b><br></figcaption> -->
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <a href="https://gdp.rjmart.cn"><img src="assets/img/sponsors/keyun_sponsor.jpg" width="200"/></a>
-        <!-- <figcaption><b><a href="https://gdp.rjmart.cn">Guangzhou Coloring Technology Co., Ltd.</a></b><br></figcaption> -->
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <a href="https://spj.science.org/journal/cbsystems"><img src="assets/img/sponsors/cbs_logo.jpg" width="1000"/></a>
-        <!-- <figcaption><b><a href="https://gdp.rjmart.cn">Guangzhou Coloring Technology Co., Ltd.</a></b><br></figcaption> -->
-        </figure>
-    </div>
-</div>
