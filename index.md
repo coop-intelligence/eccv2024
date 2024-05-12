@@ -9,7 +9,7 @@ layout: home
 ---
 <p style="text-align: center;"><font size="5"><a href="https://2024.ieee-icra.org/">The 18th European Conference on Computer Vision 2024 in Milan, Italy</a>
 </font></p>
-<p style="text-align: center;"><font size="5">Sep 29th - Oct 04th, 2024</font></p>
+<p style="text-align: center;"><font size="5">Sep 30th</font></p>
 <!-- <p style="text-align: center;"><font size="5">Location: Sequoia 1</font></p> -->
 <!-- <p style="text-align: center;"><font size="4">[<a href="">Youtube</a>] [<a href="https://discord.gg/yqjTtBmUJC">Discord</a>] [<a href="https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/WIHR">OpenReview</a>]</font></p> -->
 <!-- <p style="text-align: center;"><font size="4">Recording available at: <a href="">Youtube</a></font></p> -->
@@ -55,9 +55,9 @@ We invite submissions including but not limited to the following topics:
 
 - **Notification of acceptance**: 2024/08/08
 
-- **Camera ready**: 2024/08/15
+- **Camera ready**: 2024/08/15 PST
 
-- **Workshop date**: 2024/09/29 or 2024/09/30
+- **Workshop date**: 2024/09/30
 
 **Submission Guidance**
 - **Submission portal**: [ECCV 2024 Workshop Co-Intelligence (OpenReview)](https://openreview.net/group?id=IEEE.org/2024/ECCV/Workshop/co-intelligence).
