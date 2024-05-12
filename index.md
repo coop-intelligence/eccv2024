@@ -31,6 +31,7 @@ Specifically, this workshop aims to address the following issues regarding coope
 
 ### Call for papers
 
+**Topics**
 We invite submissions including but not limited to the following topics:
 
 - Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I)
@@ -50,11 +51,11 @@ We invite submissions including but not limited to the following topics:
 **Important Dates**
 - **Paper submission open**: 2024/06/01
 
-- **Paper submission deadline**: 2024/07/31 PST
+- **Paper submission deadline**: 2024/07/25 PST
 
-- **Notification of acceptance**: 2024/08/15
+- **Notification of acceptance**: 2024/08/08
 
-- **Camera ready**: 2024/08/25s
+- **Camera ready**: 2024/08/15
 
 - **Workshop date**: 2024/09/29 or 2024/09/30
 
