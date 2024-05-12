@@ -1,20 +1,20 @@
 ---
 
-sequence_id: 3
+sequence_id: 10
 
 # Name of the organizer
-name: Jiankai Sun
+name: Zaiqing Nie
 
 # Link to the organizer's webpage
-webpage: http://web.stanford.edu/~jksun/
+webpage: https://air.tsinghua.edu.cn/en/info/1046/1192.htm
 
 # Primary affiliation
-affil: Stanford University
+affil: Tsinghua University
 # Link to the primary affiliation
-affil_link: http://web.stanford.edu/~jksun/
+affil_link: https://air.tsinghua.edu.cn/en/info/1046/1192.htm
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: jiankai_sun.png
+img: jane.jpg
 
 # # Secondary affiliation
 # affil2: BuzzFizz Corp

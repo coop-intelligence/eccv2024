@@ -3,11 +3,11 @@
 sequence_id: 1
 
 # Speaker name
-speaker: Brokoslaw Laschowski
+speaker: Invited Talk 1
 
 # Title of the event
-title: "Robotic Leg Control: From Artificial Intelligence to Brain-Machine Interfaces"
+title: TBD
 
 # Time of the event
-time: 08:40 - 09:10
+time: 09:10 - 09:40
 ---

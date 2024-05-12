@@ -76,56 +76,56 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
 <div class="grid">
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/zijian_wang.jpg" width="200"/>
+        <img src="assets/img/speakers/jane.jpg" width="200"/>
         <figcaption><b><a href="https://scholar.google.com/citations?user=XC8CHRMAAAAJ&hl=en">Jiaqi Ma</a></b><br>UCLA, USA</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/yuzhe_yang.jpg" width="200" /> 
+        <img src="assets/img/speakers/jane.jpg" width="200" /> 
         <figcaption><b><a href="https://www.mit.edu/~yuzhe/">Alois Knoll</a></b><br>TUM, Germany</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/george_mylonas.jpg" width="200" />
+        <img src="assets/img/speakers/jane.jpg" width="200" />
         <figcaption><b><a href="https://www.imperial.ac.uk/people/george.mylonas">Hang Qiu</a></b><br>UCR, USA</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/etienne_burdet.jpg" width="200" />
+        <img src="assets/img/speakers/jane.jpg" width="200" />
         <figcaption><b><a href="https://www.imperial.ac.uk/people/e.burdet">Gui. Sartoretti</a></b><br>NUS, Singapore</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jasmin-e-palmer.jpg" width="200" />
+        <img src="assets/img/speakers/jane.jpg" width="200" />
         <figcaption><b><a href="https://profiles.stanford.edu/jasmin-e-palmer">Sheng Zhou
 </a></b><br>Tsinghua University, China</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/brokoslaw_laschowski.png" width="200" />
+        <img src="assets/img/speakers/jane.jpg" width="200" />
         <figcaption><b><a href="https://kite-uhn.com/scientist/brokoslaw-laschowski">Amanda Prorok</a></b><br>Cambridge University, UK</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jinsoo_kim.jpg" width="200" />
+        <img src="assets/img/speakers/jane.jpg" width="200" />
         <figcaption><b><a href="https://scholar.google.com/citations?user=4uU8UXAAAAAJ&hl=en">Zsolt Kira</a></b><br>Gatech, USA</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/ruohan_zhang.jpg" width="200" />
+        <img src="assets/img/speakers/jane.jpg" width="200" />
         <figcaption><b><a href="https://ai.stanford.edu/~zharu/">Manabu Tsukada</a></b><br>University of Tokyo, Japan</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/daniel_yamins.jpg" width="200" />
+        <img src="assets/img/speakers/jane.jpg" width="200" />
         <figcaption><b><a href="https://profiles.stanford.edu/daniel-yamins">Marco Pavone</a></b><br>Standford University, USA</figcaption>
         </figure>
     </div>
@@ -145,64 +145,58 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
 
 
 <div class="grid">
-    <div class="gridorg-item">
+    <div class="grid-item">
         <figure>
-        <img src="assets/img/organizers/jiankai_sun.png" width="200"/>
-        <figcaption><b><a href="https://web.stanford.edu/~jksun">Jiankai Sun</a></b><br>Stanford University</figcaption>
+        <img src="assets/img/speakers/jane.jpg" width="200"/>
+        <figcaption><b><a href="https://scholar.google.com/citations?user=JW4F5HoAAAAJ&hl">Haibao Yu</a></b><br>The University of Hong Kong</figcaption>
         </figure>
     </div>
-    <div class="gridorg-item">
+    <div class="grid-item">
         <figure>
-        <img src="assets/img/organizers/xiao_gu.jpg" width="200" /> 
-        <figcaption><b><a href="https://xiaogu.site/">Xiao Gu</a></b><br>University of Oxford</figcaption>
+        <img src="assets/img/speakers/jane.jpg" width="200" /> 
+        <figcaption><b><a href="https://www.linkedin.com/in/jianing-qiu-91a802224/">Jianing Qiu</a></b><br>Imperiel College London</figcaption>
         </figure>
     </div>
-    <div class="gridorg-item">
+    <div class="grid-item">
         <figure>
-        <img src="assets/img/organizers/yiyue_luo.jpg" width="200" />
-        <figcaption><b><a href="https://yyueluo.com/">Yiyue Luo</a></b><br>MIT</figcaption>
+        <img src="assets\img\organizers\jiankai_sun.png" width="200" />
+        <figcaption><b><a href="http://web.stanford.edu/~jksun/">Jiankai Sun</a></b><br>Stanford University</figcaption>
         </figure>
     </div>
-    <div class="gridorg-item">
+    <div class="grid-item">
         <figure>
-        <img src="assets/img/organizers/jianing_qiu.jpeg" width="200" />
-        <figcaption><b><a href="https://scholar.google.com/citations?user=ETgWwQoAAAAJ&hl=en&oi=ao">Jianing Qiu</a></b><br>CUHK</figcaption>
+        <img src="assets/img/speakers/jane.jpg" width="200" />
+        <figcaption><b><a href="https://scholar.google.com/citations?hl=en&user=ulZxvY0AAAAJ">Li Chen</a></b><br>Shanghai AI Lab</figcaption>
         </figure>
     </div>
-    <div class="gridorg-item">
+    <div class="grid-item">
         <figure>
-        <img src="assets/img/organizers/shuo_jiang.jpg" width="200" />
-        <figcaption><b><a href="https://scholar.google.com/citations?user=zcpunN8AAAAJ&hl=en">Shuo Jiang</a></b><br>Tongji University</figcaption>
+        <img src="assets/img/speakers/jane.jpg" width="200" />
+        <figcaption><b><a href="https://www.ce.cit.tum.de/air/people/walter-zimmer-msc/">Walter Zimmer</a></b><br>Technical University of Munich</figcaption>
         </figure>
     </div>
-    <div class="gridorg-item">
+    <div class="grid-item">
         <figure>
-        <img src="assets/img/organizers/wu_yuan.png" width="200" />
-        <figcaption><b><a href="https://scholar.google.com.sg/citations?user=3A_h6-sAAAAJ&hl=en">Wu Yuan</a></b><br>CUHK</figcaption>
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/organizers/honghai_liu.png" width="200" />
-        <figcaption><b><a href="https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/honghai-liu">Honghai Liu</a></b><br>University of Portsmouth</figcaption>
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/organizers/steve_collins.jpg" width="200" />
-        <figcaption><b><a href="https://profiles.stanford.edu/steven-collins">Steven Collins</a></b><br>Stanford University</figcaption>
-        </figure>
-    </div>
-    <div class="gridorg-item">
-        <figure>
-        <img src="assets/img/organizers/mac_schwager.jpg" width="200" />
+        <img src="assets\img\organizers\mac_schwager.jpg" width="200" />
         <figcaption><b><a href="https://web.stanford.edu/~schwager/">Mac Schwager</a></b><br>Stanford University</figcaption>
         </figure>
     </div>
-    <div class="gridorg-item">
+    <div class="grid-item">
         <figure>
-        <img src="assets/img/organizers/benny_lo.jpg" width="200" />
-        <figcaption><b><a href="https://www.imperial.ac.uk/people/benny.lo">Benny Lo</a></b><br>Imperial College London</figcaption>
+        <img src="assets/img/speakers/jane.jpg" width="200" />
+        <figcaption><b><a href="http://luoping.me/">Ping Luo</a></b><br>The University of Hong Kong</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/jane.jpg" width="200" />
+        <figcaption><b><a href="https://colalab.net/people">Si Liu</a></b><br>Beihang University</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets/img/speakers/jane.jpg" width="200" />
+        <figcaption><b><a href="https://air.tsinghua.edu.cn/en/info/1046/1192.htm">Zaiqing Nie</a></b><br>Tsinghua University</figcaption>
         </figure>
     </div>
 </div>

@@ -6,8 +6,8 @@ sequence_id: 0
 # speaker: Organizers
 
 # Title of the event
-wide_title: Opening Remarks
+wide_title: Introduction and Opening Remarks
 
 # Time of the event
-time: 08:30 - 08:40
+time: 09:00 - 09:10
 ---

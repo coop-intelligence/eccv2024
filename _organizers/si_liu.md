@@ -1,20 +1,20 @@
 ---
 
-sequence_id: 3
+sequence_id: 8
 
 # Name of the organizer
-name: Jiankai Sun
+name: Si Liu
 
 # Link to the organizer's webpage
-webpage: http://web.stanford.edu/~jksun/
+webpage: https://colalab.net/people
 
 # Primary affiliation
-affil: Stanford University
+affil: Beihang University
 # Link to the primary affiliation
-affil_link: http://web.stanford.edu/~jksun/
+affil_link: https://colalab.net/people
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: jiankai_sun.png
+img: jane.jpg
 
 # # Secondary affiliation
 # affil2: BuzzFizz Corp

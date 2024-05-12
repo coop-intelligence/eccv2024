@@ -1,6 +1,6 @@
 ---
 
-sequence_id: 9
+sequence_id: 6
 
 # Name of the organizer
 name: Mac Schwager

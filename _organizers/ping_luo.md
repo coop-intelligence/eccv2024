@@ -1,23 +1,24 @@
 ---
 
-sequence_id: 3
+sequence_id: 7
 
 # Name of the organizer
-name: Jiankai Sun
+name: Ping Luo
 
 # Link to the organizer's webpage
-webpage: http://web.stanford.edu/~jksun/
+webpage: http://luoping.me/
 
 # Primary affiliation
-affil: Stanford University
+affil: The University of Hong Kong
 # Link to the primary affiliation
-affil_link: http://web.stanford.edu/~jksun/
+affil_link: http://luoping.me/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: jiankai_sun.png
+img: jane.jpg
 
 # # Secondary affiliation
 # affil2: BuzzFizz Corp
 # # Link to the secondary affiliation
 # affil2_link: https://buzzfizz.corp
 ---
+
