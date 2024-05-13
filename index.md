@@ -34,7 +34,8 @@ Specifically, this workshop aims to address the following issues regarding coope
 
 ### Call for papers
 
-**Topics**
+**Submission Topics**
+
 We invite submissions including but not limited to the following topics:
 
 - Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I)
@@ -60,7 +61,7 @@ We invite submissions including but not limited to the following topics:
 
 - **Camera ready**: August 15th, 2024 (PST)
 
-- **Workshop date**: PM of Sep 30th, 2024
+- **Workshop date**: PM of Sep 30th, 2024 (See [ECCV Workshop Lists](https://eccv2024.ecva.net/Conferences/2024/Workshops))
 
 **Submission Guidance**
 - **Submission portal**: [ECCV 2024 Workshop Co-Intelligence (OpenReview)](https://openreview.net/group?id=IEEE.org/2024/ECCV/Workshop/co-intelligence).

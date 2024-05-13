@@ -4,6 +4,8 @@ title: Call for papers
 permalink: /callforpapers/
 ---
 
+**Submission Topics**
+
 We invite submissions including but not limited to the following topics:
 
 - Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I)
@@ -21,15 +23,15 @@ We invite submissions including but not limited to the following topics:
 
 
 **Important Dates**
-- **Paper submission open**: 2024/06/01
+- **Paper submission open**: June 1st, 2024
 
-- **Paper submission deadline**: 2024/07/31 PST
+- **Paper submission deadline**: July 25th, 2024 (PST)
 
-- **Notification of acceptance**: 2024/08/15
+- **Notification of acceptance**: August 8th, 2024
 
-- **Camera ready**: 2024/08/25s
+- **Camera ready**: August 15th, 2024 (PST)
 
-- **Workshop date**: 2024/09/29 or 2024/09/30
+- **Workshop date**: PM of Sep 30th, 2024 (See [ECCV Workshop Lists](https://eccv2024.ecva.net/Conferences/2024/Workshops))
 
 **Submission Guidance**
 - **Submission portal**: [ECCV 2024 Workshop Co-Intelligence (OpenReview)](https://openreview.net/group?id=IEEE.org/2024/ECCV/Workshop/co-intelligence).
