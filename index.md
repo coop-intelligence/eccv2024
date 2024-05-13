@@ -9,10 +9,13 @@ layout: home
 ---
 <p style="text-align: center;"><font size="5"><a href="https://2024.ieee-icra.org/">The 18th European Conference on Computer Vision 2024 in Milan, Italy</a>
 </font></p>
-<p style="text-align: center;"><font size="5">Sep 30th</font></p>
+<p style="text-align: center;"><font size="5">September 30th, 2024</font></p>
 <!-- <p style="text-align: center;"><font size="5">Location: Sequoia 1</font></p> -->
 <!-- <p style="text-align: center;"><font size="4">[<a href="">Youtube</a>] [<a href="https://discord.gg/yqjTtBmUJC">Discord</a>] [<a href="https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/WIHR">OpenReview</a>]</font></p> -->
 <!-- <p style="text-align: center;"><font size="4">Recording available at: <a href="">Youtube</a></font></p> -->
+
+This workshop focuses on multi-agent intelligence. The first session will primarily discuss "Multi-Agent Autonomous Systems Meet Foundation Models: Challenges and Futures."
+
 
 The progress in artificial intelligence has propelled the development of autonomous systems, particularly in autonomous driving and robotics. However, achieving autonomy in complex and open environments remains challenging for individual agents. This is where cooperative intelligence comes in, a paradigm where agents collaborate and interact with infrastructure equipment to handle diverse tasks effectively. In autonomous driving, the availability of datasets and breakthrough algorithms has spurred research interest in cooperative autonomous driving. Through Vehicle-to-Everything (V2X) interactions including Vehicleto-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I), autonomous vehicles can improve their perception and safety capabilities, surpassing the limitations of single-vehicle autonomy and paving the way for widespread adoption. Similarly, in robotics, recent advancements in multi-agent systems offer a cost-effective solution for exploring unknown environments. These breakthroughs empower robots to assist humans in navigating challenging tasks within open environments. Despite notable progress, the challenges of coordinating multi-agent systems remain insufficiently explored. Issues like determining what information to transmit, how to transmit it, and how to fuse information across different task levels (perception, prediction, planning, etc.) pose practical deployment hurdles. Recent breakthroughs in large language models and foundational models offer a promising avenue for addressing these challenges. This workshop, complementing existing workshops focused on individual intelligence in autonomous driving and robotics, introduces a fresh perspective. It fosters discussions on a comprehensive, system-level approach to cooperative framework design for autonomous agents across diverse domains.
 
@@ -20,8 +23,8 @@ The progress in artificial intelligence has propelled the development of autonom
 
 Specifically, this workshop aims to address the following issues regarding cooperative intelligence:
 - **The value and prospects** of cooperative intelligence for autonomous driving and robotics.
-- **The challenges and recent advancements** in cooperative intelligence within multi-agent autonomous systems.
-- **The foundation models application** for multi-agent autonomous systems.
+- **The challenges and recent advancements** in cooperative intelligence for multi-agent autonomous systems.
+- **The foundation models** for multi-agent autonomous systems.
 
 
 
@@ -49,15 +52,15 @@ We invite submissions including but not limited to the following topics:
 
 
 **Important Dates**
-- **Paper submission open**: 2024/06/01
+- **Paper submission open**: June 1st, 2024
 
-- **Paper submission deadline**: 2024/07/25 PST
+- **Paper submission deadline**: July 25th, 2024 (PST)
 
-- **Notification of acceptance**: 2024/08/08
+- **Notification of acceptance**: August 8th, 2024
 
-- **Camera ready**: 2024/08/15 PST
+- **Camera ready**: August 15th, 2024 (PST)
 
-- **Workshop date**: 2024/09/30
+- **Workshop date**: PM of Sep 30th, 2024
 
 **Submission Guidance**
 - **Submission portal**: [ECCV 2024 Workshop Co-Intelligence (OpenReview)](https://openreview.net/group?id=IEEE.org/2024/ECCV/Workshop/co-intelligence).
