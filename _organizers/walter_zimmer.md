@@ -6,15 +6,15 @@ sequence_id: 5
 name: Walter Zimmer
 
 # Link to the organizer's webpage
-webpage: https://www.ce.cit.tum.de/air/people/walter-zimmer-msc/
+webpage: https://walzimmer.github.io/website/
 
 # Primary affiliation
 affil: Technical University of Munich
 # Link to the primary affiliation
-affil_link: https://www.ce.cit.tum.de/air/people/walter-zimmer-msc/
+# affil_link: https://walzimmer.github.io/website/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: jane.jpg
+img: walter_zimmer.jpeg
 
 # # Secondary affiliation
 # affil2: BuzzFizz Corp

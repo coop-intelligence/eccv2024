@@ -11,10 +11,10 @@ webpage: http://luoping.me/
 # Primary affiliation
 affil: The University of Hong Kong
 # Link to the primary affiliation
-affil_link: http://luoping.me/
+# affil_link: http://luoping.me/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: jane.jpg
+img: ping_luo.jpg
 
 # # Secondary affiliation
 # affil2: BuzzFizz Corp

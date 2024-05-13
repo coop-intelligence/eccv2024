@@ -5,15 +5,15 @@ sequence_id: 8
 name: Manabu Tsukada
 
 # Link to the speaker's webpage
-webpage: https://cn.bing.com/
+webpage: https://tlab.hongo.wide.ad.jp/People/manabu-tsukada/
 
 # Primary affiliation of the speaker
 affil: University of Tokyo, Japan
 # Link to the speaker's primary affiliation
-affil_link: https://cn.bing.com/
+# affil_link: https://cn.bing.com/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: jane.jpg
+img: Manabu_Tsukada.jpg
 
 # # (Optional) Secondary affiliation of the speaker
 # affil2: BuzzFizz Corp

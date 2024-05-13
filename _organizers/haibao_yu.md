@@ -6,15 +6,15 @@ sequence_id: 1
 name: Haibao Yu
 
 # Link to the organizer's webpage
-webpage: https://scholar.google.com/citations?user=JW4F5HoAAAAJ&hl
+webpage: https://www.linkedin.com/in/haibao-yu-152221118
 
 # Primary affiliation
 affil: The University of Hong Kong
 # Link to the primary affiliation
-affil_link: https://cn.bing.com/
+# affil_link: https://www.linkedin.com/in/haibao-yu-152221118
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: jane.jpg
+img: haibao_yu.jpg
 
 # # Secondary affiliation
 # affil2: BuzzFizz Corp

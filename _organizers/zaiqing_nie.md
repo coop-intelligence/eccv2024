@@ -11,10 +11,10 @@ webpage: https://air.tsinghua.edu.cn/en/info/1046/1192.htm
 # Primary affiliation
 affil: Tsinghua University
 # Link to the primary affiliation
-affil_link: https://air.tsinghua.edu.cn/en/info/1046/1192.htm
+# affil_link: https://air.tsinghua.edu.cn/en/info/1046/1192.htm
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: jane.jpg
+img: zaiqing_nie.jpg
 
 # # Secondary affiliation
 # affil2: BuzzFizz Corp

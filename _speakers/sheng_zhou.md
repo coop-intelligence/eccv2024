@@ -5,15 +5,15 @@ sequence_id: 5
 name: Sheng Zhou
 
 # Link to the speaker's webpage
-webpage: https://cn.bing.com/
+webpage: http://network.ee.tsinghua.edu.cn/shengzhou/
 
 # Primary affiliation of the speaker
 affil: Tsinghua University, China
 # Link to the speaker's primary affiliation
-affil_link: https://cn.bing.com/
+# affil_link: https://cn.bing.com/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: jane.jpg
+img: zhou_sheng.jpg
 
 # # (Optional) Secondary affiliation of the speaker
 # affil2: BuzzFizz Corp

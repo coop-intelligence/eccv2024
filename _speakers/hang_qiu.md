@@ -5,15 +5,15 @@ sequence_id: 3
 name: Hang Qiu
 
 # Link to the speaker's webpage
-webpage: https://cn.bing.com/
+webpage: https://hangqiu.github.io/
 
 # Primary affiliation of the speaker
-affil: UCR, USA
+affil: University of California, Riverside, USA
 # Link to the speaker's primary affiliation
-affil_link: https://cn.bing.com/
+# affil_link: https://cn.bing.com/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: jane.jpg
+img: hang_qiu.jpg
 
 # # (Optional) Secondary affiliation of the speaker
 # affil2: BuzzFizz Corp

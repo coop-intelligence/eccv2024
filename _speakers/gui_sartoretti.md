@@ -2,18 +2,18 @@
 sequence_id: 4
 
 # Name of the speaker
-name: Gui. Sartoretti
+name: Guillaume Sartoretti
 
 # Link to the speaker's webpage
-webpage: https://cn.bing.com/
+webpage: https://cde.nus.edu.sg/me/staff/sartoretti-guillaume-a/
 
 # Primary affiliation of the speaker
 affil: NUS, Singapore
 # Link to the speaker's primary affiliation
-affil_link: https://cn.bing.com/
+# affil_link: https://cn.bing.com/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: jane.jpg
+img: Guillaume_Sartoretti.jpg
 
 # # (Optional) Secondary affiliation of the speaker
 # affil2: BuzzFizz Corp

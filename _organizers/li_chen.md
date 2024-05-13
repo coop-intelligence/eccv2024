@@ -11,10 +11,10 @@ webpage: https://scholar.google.com/citations?hl=en&user=ulZxvY0AAAAJ
 # Primary affiliation
 affil: Shanghai AI Lab
 # Link to the primary affiliation
-affil_link: https://scholar.google.com/citations?hl=en&user=ulZxvY0AAAAJ
+# affil_link: https://scholar.google.com/citations?hl=en&user=ulZxvY0AAAAJ
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: jane.jpg
+img: li_chen.png
 
 # # Secondary affiliation
 # affil2: BuzzFizz Corp

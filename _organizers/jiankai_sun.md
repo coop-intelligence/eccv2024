@@ -11,7 +11,7 @@ webpage: http://web.stanford.edu/~jksun/
 # Primary affiliation
 affil: Stanford University
 # Link to the primary affiliation
-affil_link: http://web.stanford.edu/~jksun/
+# affil_link: http://web.stanford.edu/~jksun/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
 img: jiankai_sun.png

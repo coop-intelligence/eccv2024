@@ -67,7 +67,7 @@ We invite submissions including but not limited to the following topics:
 - **Submission portal**: [ECCV 2024 Workshop Co-Intelligence (OpenReview)](https://openreview.net/group?id=IEEE.org/2024/ECCV/Workshop/co-intelligence).
 
 - **Submission format**:
-Submissions must follow the ECCV 2024 template ([here](https://eccv2024.ecva.net/Conferences/2024/SubmissionPolicies)) and will be peer-reviewed in a double-blind manner. Submission must be no more than 14 pages (excluding references). By default, accepted papers will be included in the ECCV workshop proceedings. Accepted papers will be presented in the form of posters, with several papers being selected for spotlight sessions. The <b><font color=red>Best Paper Award</font></b> and <b><font color=red>Best Paper Nomination</font></b> will receive a cash prize of <b>500 US dollors</b> and <b>300 US dollors</b>, respectively.
+Submissions must follow the ECCV 2024 template ([here](https://eccv2024.ecva.net/Conferences/2024/SubmissionPolicies)) and will be peer-reviewed in a double-blind manner. Submission must be no more than 14 pages (excluding references). By default, accepted papers will be included in the ECCV workshop proceedings. Accepted papers will be presented in the form of posters, with several papers being selected for spotlight sessions. The <b><font color=red>Best Paper Award</font></b> and <b><font color=red>Best Paper Nomination</font></b> will receive a cash prize of <b>500 US dollars</b> and <b>300 US dollars</b>, respectively.
 
 **Contact**
 
@@ -75,63 +75,63 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
 
 &nbsp;
 &nbsp;
-### Invited Speakers (TBD)
+### Invited Speakers
 &nbsp;
 
 <div class="grid">
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jane.jpg" width="200"/>
-        <figcaption><b><a href="https://scholar.google.com/citations?user=XC8CHRMAAAAJ&hl=en">Jiaqi Ma</a></b><br>UCLA, USA</figcaption>
+        <img src="assets/img/speakers/jiaqi_ma.jpg" width="200"/>
+        <figcaption><b><a href="https://mobility-lab.seas.ucla.edu/about/">Jiaqi Ma</a></b><br>UCLA, USA</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jane.jpg" width="200" /> 
-        <figcaption><b><a href="https://www.mit.edu/~yuzhe/">Alois Knoll</a></b><br>TUM, Germany</figcaption>
+        <img src="assets/img/speakers/alois_knoll.png" width="200" /> 
+        <figcaption><b><a href="https://www.professoren.tum.de/en/knoll-alois-christian/">Alois C. Knoll</a></b><br>TUM, Germany</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jane.jpg" width="200" />
-        <figcaption><b><a href="https://www.imperial.ac.uk/people/george.mylonas">Hang Qiu</a></b><br>UCR, USA</figcaption>
+        <img src="assets/img/speakers/hang_qiu.jpg" width="200" />
+        <figcaption><b><a href="https://hangqiu.github.io/">Hang Qiu</a></b><br>University of California, Riverside, USA</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jane.jpg" width="200" />
-        <figcaption><b><a href="https://www.imperial.ac.uk/people/e.burdet">Gui. Sartoretti</a></b><br>NUS, Singapore</figcaption>
+        <img src="assets\img\speakers\Guillaume_Sartoretti.jpg" width="200" />
+        <figcaption><b><a href="https://cde.nus.edu.sg/me/staff/sartoretti-guillaume-a/">Guillaume Sartoretti</a></b><br>NUS, Singapore</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jane.jpg" width="200" />
-        <figcaption><b><a href="https://profiles.stanford.edu/jasmin-e-palmer">Sheng Zhou
+        <img src="assets\img\speakers\zhou_sheng.jpg" width="200" />
+        <figcaption><b><a href="http://network.ee.tsinghua.edu.cn/shengzhou/">Sheng Zhou
 </a></b><br>Tsinghua University, China</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jane.jpg" width="200" />
-        <figcaption><b><a href="https://kite-uhn.com/scientist/brokoslaw-laschowski">Amanda Prorok</a></b><br>Cambridge University, UK</figcaption>
+        <img src="assets\img\speakers\Amanda_Prorok.jpg" width="200" />
+        <figcaption><b><a href="https://www.cst.cam.ac.uk/people/asp45">Amanda Prorok</a></b><br>Cambridge University, UK</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jane.jpg" width="200" />
-        <figcaption><b><a href="https://scholar.google.com/citations?user=4uU8UXAAAAAJ&hl=en">Zsolt Kira</a></b><br>Gatech, USA</figcaption>
+        <img src="assets\img\speakers\zsolt_kira.jpg" width="200" />
+        <figcaption><b><a href="https://faculty.cc.gatech.edu/~zk15/">Zsolt Kira</a></b><br>Gatech, USA</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jane.jpg" width="200" />
-        <figcaption><b><a href="https://ai.stanford.edu/~zharu/">Manabu Tsukada</a></b><br>University of Tokyo, Japan</figcaption>
+        <img src="assets\img\speakers\Manabu_Tsukada.jpg" width="200" />
+        <figcaption><b><a href="https://tlab.hongo.wide.ad.jp/People/manabu-tsukada/">Manabu Tsukada</a></b><br>The University of Tokyo, Japan</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jane.jpg" width="200" />
-        <figcaption><b><a href="https://profiles.stanford.edu/daniel-yamins">Marco Pavone</a></b><br>Standford University, USA</figcaption>
+        <img src="assets\img\speakers\marco_pavone.jpeg" width="200" />
+        <figcaption><b><a href="https://web.stanford.edu/~pavone/">Marco Pavone</a></b><br>Standford University, USA</figcaption>
         </figure>
     </div>
     <!-- <div class="grid-item">
@@ -152,13 +152,13 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
 <div class="grid">
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jane.jpg" width="200"/>
-        <figcaption><b><a href="https://scholar.google.com/citations?user=JW4F5HoAAAAJ&hl">Haibao Yu</a></b><br>The University of Hong Kong</figcaption>
+        <img src="assets\img\organizers\haibao_yu1.jpg" width="200"/>
+        <figcaption><b><a href="https://www.linkedin.com/in/haibao-yu-152221118">Haibao Yu</a></b><br>The University of Hong Kong</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jane.jpg" width="200" /> 
+        <img src="assets\img\organizers\jianing_qiu.jpeg" width="200" /> 
         <figcaption><b><a href="https://www.linkedin.com/in/jianing-qiu-91a802224/">Jianing Qiu</a></b><br>Imperiel College London</figcaption>
         </figure>
     </div>
@@ -170,14 +170,14 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jane.jpg" width="200" />
+        <img src="assets\img\organizers\li_chen.png" width="200" />
         <figcaption><b><a href="https://scholar.google.com/citations?hl=en&user=ulZxvY0AAAAJ">Li Chen</a></b><br>Shanghai AI Lab</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jane.jpg" width="200" />
-        <figcaption><b><a href="https://www.ce.cit.tum.de/air/people/walter-zimmer-msc/">Walter Zimmer</a></b><br>Technical University of Munich</figcaption>
+        <img src="assets\img\organizers\walter_zimmer.jpeg" width="200" />
+        <figcaption><b><a href="https://walzimmer.github.io/website/">Walter Zimmer</a></b><br>Technical University of Munich</figcaption>
         </figure>
     </div>
     <div class="grid-item">
@@ -188,19 +188,25 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jane.jpg" width="200" />
+        <img src="assets\img\organizers\ping_luo.jpg" width="200" />
         <figcaption><b><a href="http://luoping.me/">Ping Luo</a></b><br>The University of Hong Kong</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jane.jpg" width="200" />
-        <figcaption><b><a href="https://colalab.net/people">Si Liu</a></b><br>Beihang University</figcaption>
+        <img src="assets\img\organizers\ruigang_yang.jpg" width="200" />
+        <figcaption><b><a href="https://scholar.google.com/citations?user=yveq40QAAAAJ&hl=en">Ruigang Yang</a></b><br>Inceptio Technology</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/jane.jpg" width="200" />
+        <img src="assets\img\organizers\si_liu.jpg" width="200" />
+        <figcaption><b><a href="https://colalab.net/">Si Liu</a></b><br>Beihang University</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+        <img src="assets\img\organizers\zaiqing_nie.jpg" width="200" />
         <figcaption><b><a href="https://air.tsinghua.edu.cn/en/info/1046/1192.htm">Zaiqing Nie</a></b><br>Tsinghua University</figcaption>
         </figure>
     </div>
@@ -212,7 +218,14 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
 
 ### Program Committee (TBD)
 &nbsp;
-
+<div class="grid">
+    <div class="grid-item">
+        <figure>
+        <img src="assets\img\program_committee\jiaru_zhong.jpg" width="200"/>
+        <figcaption><b><a>Jiaru Zhong</a></b><br>Beijing Institute of Technology</figcaption>
+        </figure>
+    </div>
+</div>
 
 ### Sponsors (TBD)
 &nbsp;

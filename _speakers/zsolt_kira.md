@@ -5,15 +5,15 @@ sequence_id: 7
 name: Zsolt Kira
 
 # Link to the speaker's webpage
-webpage: https://cn.bing.com/
+webpage: https://faculty.cc.gatech.edu/~zk15/
 
 # Primary affiliation of the speaker
 affil: Gatech, USA
 # Link to the speaker's primary affiliation
-affil_link: https://cn.bing.com/
+# affil_link: https://cn.bing.com/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: jane.jpg
+img: zsolt_kira.jpg
 
 # # (Optional) Secondary affiliation of the speaker
 # affil2: BuzzFizz Corp

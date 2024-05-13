@@ -5,15 +5,15 @@ sequence_id: 9
 name: Marco Pavone
 
 # Link to the speaker's webpage
-webpage: https://cn.bing.com/
+webpage: https://web.stanford.edu/~pavone/
 
 # Primary affiliation of the speaker
 affil: Stanford University, USA
 # Link to the speaker's primary affiliation
-affil_link: https://cn.bing.com/
+# affil_link: https://cn.bing.com/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: jane.jpg
+img: marco_pavone.jpeg
 
 # # (Optional) Secondary affiliation of the speaker
 # affil2: BuzzFizz Corp
