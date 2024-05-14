@@ -7,7 +7,7 @@ title: "1st Workshop on Cooperative Intelligence for Autonomous Driving and Robo
 list_title: Home
 layout: home
 ---
-<p style="text-align: center;"><font size="5"><a href="https://2024.ieee-icra.org/">The 18th European Conference on Computer Vision 2024 in Milan, Italy</a>
+<p style="text-align: center;"><font size="5"><a href="https://eccv2024.ecva.net/">The 18th European Conference on Computer Vision 2024 in Milan, Italy</a>
 </font></p>
 <p style="text-align: center;"><font size="5">September 30th, 2024</font></p>
 <!-- <p style="text-align: center;"><font size="5">Location: Sequoia 1</font></p> -->
@@ -64,7 +64,7 @@ We invite submissions including but not limited to the following topics:
 - **Workshop date**: PM of Sep 30th, 2024 (See [ECCV Workshop Lists](https://eccv2024.ecva.net/Conferences/2024/Workshops))
 
 **Submission Guidance**
-- **Submission portal**: [ECCV 2024 Workshop Co-Intelligence (OpenReview)](https://openreview.net/group?id=IEEE.org/2024/ECCV/Workshop/co-intelligence).
+- **Submission portal**: [ECCV 2024 Workshop Co-Intelligence (OpenReview)](https://openreview.net/group?id=thecvf.com/ECCV/2024/Workshop/MAAS).
 
 - **Submission format**:
 Submissions must follow the ECCV 2024 template ([here](https://eccv2024.ecva.net/Conferences/2024/SubmissionPolicies)) and will be peer-reviewed in a double-blind manner. Submission must be no more than 14 pages (excluding references). By default, accepted papers will be included in the ECCV workshop proceedings. Accepted papers will be presented in the form of posters, with several papers being selected for spotlight sessions. The <b><font color=red>Best Paper Award</font></b> and <b><font color=red>Best Paper Nomination</font></b> will receive a cash prize of <b>500 US dollars</b> and <b>300 US dollars</b>, respectively.
@@ -75,7 +75,7 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
 
 &nbsp;
 &nbsp;
-### Invited Speakers
+### Invited Speakers (TBD)
 &nbsp;
 
 <div class="grid">
