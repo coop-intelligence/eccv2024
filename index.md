@@ -223,7 +223,7 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
         <div><p><span>&#8226;&nbsp;</span><a href="">Jiaru Zong</a> (BIT)</p></div>
     </div>
     <div class="gridcom-item">
-        <div><p><span>&#8226;&nbsp;</span><a href="Yaomarkmu.github.io">Yao Mu</a> (HKU)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://yaomarkmu.github.io/">Yao Mu</a> (HKU)</p></div>
     </div>
 </div>
 
