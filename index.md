@@ -67,7 +67,7 @@ We invite submissions including but not limited to the following topics:
 - **Submission portal**: [ECCV 2024 Workshop Co-Intelligence (OpenReview)](https://openreview.net/group?id=thecvf.com/ECCV/2024/Workshop/MAAS).
 
 - **Submission format**:
-Submissions must follow the ECCV 2024 template ([here](https://eccv2024.ecva.net/Conferences/2024/SubmissionPolicies)) and will be peer-reviewed in a double-blind manner. Submission must be no more than 14 pages (excluding references). By default, accepted papers will be included in the ECCV workshop proceedings. Accepted papers will be presented in the form of posters, with several papers being selected for spotlight sessions. The <b><font color=red>Best Paper Award</font></b> and <b><font color=red>Best Paper Nomination</font></b> will receive a cash prize of <b>500 US dollars</b> and <b>300 US dollars</b>, respectively.
+Submissions must follow the ECCV 2024 template ([here](https://eccv2024.ecva.net/Conferences/2024/SubmissionPolicies)) and will be peer-reviewed in a double-blind manner. Submission must be no more than 14 pages (excluding references). By default, accepted papers will be included in the ECCV workshop proceedings. Accepted papers will be presented in the form of posters, with several papers being selected for spotlight sessions.
 
 **Contact**
 
@@ -220,10 +220,10 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
 &nbsp;
 <div class="grid">
     <div class="grid-item">
-        <figure>
-        <img src="assets\img\program_committee\jiaru_zhong.jpg" width="200"/>
-        <figcaption><b><a>Jiaru Zhong</a></b><br>Beijing Institute of Technology</figcaption>
-        </figure>
+        <div><p><span>&#8226;&nbsp;</span><a href="">Jiaru Zong</a> (BIT)</p></div>
+    </div>
+    <div class="gridcom-item">
+        <div><p><span>&#8226;&nbsp;</span><a href="Yaomarkmu.github.io">Yao Mu</a> (HKU)</p></div>
     </div>
 </div>
 

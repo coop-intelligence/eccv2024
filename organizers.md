@@ -98,10 +98,9 @@ permalink: /organizers/
 &nbsp;
 <div class="grid">
     <div class="grid-item">
-        <figure>
-        <img src="program_committee\jiaru_zhong.jpg" width="200"/>
-        <figcaption><b><a>Jiaru Zhong</a></b><br>Beijing Institute of Technology</figcaption>
-        </figure>
+        <div><p><span>&#8226;&nbsp;</span><a href="">Jiaru Zong</a> (BIT)</p></div>
+    </div>
+    <div class="gridcom-item">
+        <div><p><span>&#8226;&nbsp;</span><a href="Yaomarkmu.github.io">Yao Mu</a> (HKU)</p></div>
     </div>
 </div>
-&nbsp;
