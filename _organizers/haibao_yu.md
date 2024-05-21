@@ -9,7 +9,7 @@ name: Haibao Yu
 webpage: https://www.linkedin.com/in/haibao-yu-152221118
 
 # Primary affiliation
-affil: The University of Hong Kong
+affil: The University of Hong Kong & Tsinghua University
 # Link to the primary affiliation
 # affil_link: https://www.linkedin.com/in/haibao-yu-152221118
 

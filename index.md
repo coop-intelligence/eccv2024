@@ -153,7 +153,7 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
     <div class="grid-item">
         <figure>
         <img src="assets\img\organizers\haibao_yu1.jpg" width="200"/>
-        <figcaption><b><a href="https://www.linkedin.com/in/haibao-yu-152221118">Haibao Yu</a></b><br>The University of Hong Kong</figcaption>
+        <figcaption><b><a href="https://www.linkedin.com/in/haibao-yu-152221118">Haibao Yu</a></b><br>University of Hong Kong & Tsinghua University</figcaption>
         </figure>
     </div>
     <div class="grid-item">
@@ -189,7 +189,7 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
     <div class="grid-item">
         <figure>
         <img src="assets\img\organizers\ping_luo.jpg" width="200" />
-        <figcaption><b><a href="http://luoping.me/">Ping Luo</a></b><br>The University of Hong Kong</figcaption>
+        <figcaption><b><a href="http://luoping.me/">Ping Luo</a></b><br>University of Hong Kong</figcaption>
         </figure>
     </div>
     <div class="grid-item">
