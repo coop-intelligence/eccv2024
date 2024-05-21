@@ -237,6 +237,7 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
         <div><p><span>&#8226;&nbsp;</span><a href="https://sites.google.com/view/guangliangcheng">Guangliang Cheng</a> (University of Liverpool)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://ry-hao.top/">Ruiyang Hao</a> (Tsinghua University)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://rruisong.github.io">Rui Song</a> (TUM)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://dingmyu.github.io/">Mingyu Ding</a> (UC Berkeley)</p></div>
     </div>
 </div>
 
