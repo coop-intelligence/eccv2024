@@ -25,16 +25,18 @@ img: zhou_sheng.jpg
 
 <p><b> Talk Title </b></p>
 
-TBD
+Collaborative Perception under V2X Communication Limitations
 
  
 
 <p><b> Talk Description </b></p>
 
-TBD
+Collaborative perception (CP) can enhance the perception reliability of autonomous driving, as compared to stand-alone intelligence. However, the limited V2X bandwidth pose challenges on the information exchange, in addition to the dynamic spatial and temporal relationship among sensors on vehicles. This talk will introduce our research efforts toward practical CP, and the simulation platform as well as the datasets we have developed. 
 
  
 
 <p><b> Speaker Bio </b></p>
 
-TBD
+He is an Associate Professor with the Department of Electronic Engineering at Tsinghua University, Beijing, China since 2013.
+
+He received my the B.E. and the Ph.D. degrees in EE from Tsinghua University in 2005, and 2011, respectively. His research interests include green wireless communications, vehicular networks, mobile edge computing, distributed machine learning in wireless networks, and low power wireless communications for medical implants.
