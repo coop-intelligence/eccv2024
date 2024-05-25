@@ -216,7 +216,7 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
 &nbsp;
 
 
-### Program Committee (TBD)
+### Program Committee
 &nbsp;
 <div class="grid">
     <div class="gridcom-item">

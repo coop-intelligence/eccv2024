@@ -95,7 +95,7 @@ permalink: /organizers/
 &nbsp;
 
 
-### Program Committee (TBD)
+### Program Committee
 &nbsp;
 <div class="grid">
     <div class="gridcom-item">
