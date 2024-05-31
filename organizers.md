@@ -104,6 +104,7 @@ permalink: /organizers/
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=KlHuj2QAAAAJ&hl">Yifeng Shi</a> (Baidu)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=1H5PwZkAAAAJ&hl">Weitao Zhou</a> (Tsinghua University)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://shijianping.me/">Jianping Shi</a> (SenseTime)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://phyllish.github.io/">Yue Hu</a> (SJTU)</p></div>
     </div>
     <div class="gridcom-item">
         <div><p><span>&#8226;&nbsp;</span><a href="https://yanwang202199.github.io/">Yan Wang</a> (Tsinghua University)</p></div>
