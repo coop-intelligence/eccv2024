@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: "1st Workshop on Cooperative Intelligence for Emobidied AI"
+title: "1st Workshop on Cooperative Intelligence for Embodied AI"
 list_title: Home
 layout: home
 ---
