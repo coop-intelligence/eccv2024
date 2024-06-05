@@ -221,6 +221,7 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
 <div class="grid">
     <div class="gridcom-item">
         <div><p><span>&#8226;&nbsp;</span><a href="">Jiaru Zhong</a> (BIT)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="">Zhenwei Yang</a> (USTB)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://sites.google.com/site/yangliuveronica/">Yang Liu</a> (Tsinghua University)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://xieenze.github.io/">Enze Xie</a> (HKU)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=KlHuj2QAAAAJ&hl">Yifeng Shi</a> (Baidu)</p></div>
@@ -229,6 +230,7 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
     </div>
     <div class="gridcom-item">
         <div><p><span>&#8226;&nbsp;</span><a href="https://ry-hao.top/">Ruiyang Hao</a> (Tsinghua University)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="">Siqi Fan</a> (Tsinghua University)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://yanwang202199.github.io/">Yan Wang</a> (Tsinghua University)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=3qK1cZMAAAAJ&hl">Tuopu Wen</a> (Tsinghua University)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://yaomarkmu.github.io/">Yao Mu</a> (HKU)</p></div>
@@ -236,6 +238,7 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
         
     </div>
     <div class="gridcom-item">
+        <div><p><span>&#8226;&nbsp;</span><a href="">Wenxian Yang</a> (Tsinghua University)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://yuexinma.me/">Yuexin Ma</a> (ShanghaiTech University)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://sites.google.com/view/guangliangcheng">Guangliang Cheng</a> (UOL)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://rruisong.github.io">Rui Song</a> (TUM)</p></div>
