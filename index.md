@@ -69,6 +69,10 @@ We invite submissions including but not limited to the following topics:
 - **Submission format**:
 Submissions must follow the ECCV 2024 template ([here](https://eccv2024.ecva.net/Conferences/2024/SubmissionPolicies)) and will be peer-reviewed in a double-blind manner. Submission must be no more than 14 pages (excluding references). By default, accepted papers will be included in the ECCV workshop proceedings. Accepted papers will be presented in the form of posters, with several papers being selected for spotlight sessions.
 
+**Important Notes**
+
+The accepted papers will be featured in the proceedings, in a separate volume. The <b><font color=red>Best Paper Award</font></b> and <b><font color=red>Best Paper Nomination</font></b> will receive a cash prize of <b>500 US dollars</b> and <b>300 US dollars</b>, respectively.
+
 **Contact**
 
 If you have any questions, please contact us at: coop-intelligence@googlegroups.com or yuhaibao94@gmail.com.
@@ -159,7 +163,7 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
     <div class="grid-item">
         <figure>
         <img src="assets\img\organizers\jianing_qiu.jpeg" width="200" /> 
-        <figcaption><b><a href="https://www.linkedin.com/in/jianing-qiu-91a802224/">Jianing Qiu</a></b><br>Imperiel College London</figcaption>
+        <figcaption><b><a href="https://www.linkedin.com/in/jianing-qiu-91a802224/">Jianing Qiu</a></b><br>CUHK</figcaption>
         </figure>
     </div>
     <div class="grid-item">
