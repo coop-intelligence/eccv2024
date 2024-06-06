@@ -134,12 +134,12 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
         <figcaption><b><a href="https://web.stanford.edu/~pavone/">Marco Pavone</a></b><br>Standford University, USA</figcaption>
         </figure>
     </div>
-    <!-- <div class="grid-item">
+    <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/guoyuan_wu.jpg" width="200" />
-        <figcaption><b><a href="https://profiles.ucr.edu/app/home/profile/guoyuanw">Guoyuan Wu</a></b><br>UC Riverside</figcaption>
+        <img src="assets\img\speakers\Jingwei_Ji.jpg" width="200" />
+        <figcaption><b><a href="https://jingweij.github.io/">Jingwei Ji</a></b><br>Waymo</figcaption>
         </figure>
-    </div> -->
+    </div>
 </div>
 
 &nbsp;
