@@ -216,9 +216,6 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
     </div>
 </div>
 
-### Scientific Advisory Board (TBD)
-&nbsp;
-
 
 ### Program Committee
 &nbsp;
@@ -239,7 +236,7 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=3qK1cZMAAAAJ&hl">Tuopu Wen</a> (Tsinghua University)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://yaomarkmu.github.io/">Yao Mu</a> (HKU)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://dingmyu.github.io/">Mingyu Ding</a> (UC Berkeley)</p></div>
-        
+        <div><p><span>&#8226;&nbsp;</span><a href="https://ieeexplore.ieee.org/author/37086579788">Lipeng Chen</a> (Tencent Robotics X)</p></div>
     </div>
     <div class="gridcom-item">
         <div><p><span>&#8226;&nbsp;</span><a href="">Wenxian Yang</a> (Tsinghua University)</p></div>
