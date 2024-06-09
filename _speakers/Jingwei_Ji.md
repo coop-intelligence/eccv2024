@@ -36,9 +36,7 @@ TBD
 
 <p><b> Speaker Bio </b></p>
 
-Jingwei Ji is a Research Scientist at Waymo (formerly the Google self-driving car project). He received his Ph.D. degree in Electrical Engineering from Stanford University. He was co-advised by Prof. Juan Carlos Niebles and Prof. Silvio Savarese in Stanford Vision and Learning Lab. Prior to studying at Stanford, he obtained his B.Sc. degree in Physics from Peking University.
-
-His research interests include human activity understanding, video analysis, 3D vision, and general computer vision and machine learning.
+Dr. Jingwei Ji is a Senior Research Scientist at Waymo Research, where he leads multiple research projects focused on advancing autonomous driving and applying these innovations to Waymo's products. He received his Ph.D. in Electrical Engineering from Stanford University and holds a B.Sc. in Physics from Peking University.
 
 
 
