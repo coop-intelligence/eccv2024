@@ -245,6 +245,7 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
         <div><p><span>&#8226;&nbsp;</span><a href="https://rruisong.github.io">Rui Song</a> (TUM)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://air.tsinghua.edu.cn/en/info/1012/1219.htm">Jirui Yuan</a> (Tsinghua University)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://shijianping.me/">Jianping Shi</a> (SenseTime)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://jiachenli94.github.io/">Jiachen Li</a> (UCR)</p></div>
     </div>
 </div>
 
