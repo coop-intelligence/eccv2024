@@ -55,11 +55,11 @@ We invite submissions including but not limited to the following topics:
 **Important Dates**
 - **Paper submission open**: June 1st, 2024
 
-- **Paper submission deadline**: July 25th, 2024 (PST)
+- **Paper submission deadline**: ~~July 25th, 2024 (PST)~~ August 10th, 2024 (PST)
 
-- **Notification of acceptance**: August 8th, 2024
+- **Notification of acceptance**: ~~August 8th, 2024~~ August 15th, 2024
 
-- **Camera ready**: August 15th, 2024 (PST)
+- **Camera ready**: ~~August 15th, 2024 (PST)~~ August 22nd, 2024 (PST)
 
 - **Workshop date**: PM of Sep 30th, 2024 (See [ECCV Workshop Lists](https://eccv2024.ecva.net/Conferences/2024/Workshops))
 
