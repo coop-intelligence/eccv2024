@@ -9,5 +9,5 @@ speaker: Invited Talk 2
 title: TBD
 
 # Time of the event
-time: 14:20 - 15:00
+time: 14:40 - 15:10
 ---

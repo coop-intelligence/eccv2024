@@ -1,13 +1,13 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
-sequence_id: 1
+sequence_id: 5
 
 # Speaker name
-speaker: Invited Talk 1
+# speaker: Organizers
 
 # Title of the event
-title: TBD
+wide_title: Poster Session / Coffee Break
 
 # Time of the event
-time: 14:10 - 14:40
+time: 15:30 - 16:00
 ---
