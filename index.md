@@ -77,7 +77,13 @@ The accepted papers will be featured in the proceedings, in a separate volume. T
 
 If you have any questions, please contact us at: coop-intelligence@googlegroups.com or yuhaibao94@gmail.com.
 
-#### **Accepted Papers (Title-Authors-Oral/Poster)**
+
+&nbsp;
+&nbsp;
+#### Accepted papers
+
+We accept 20 papers from submissions, including 6 orals. Paper list is as following: **Title-Authors-Oral/Poster**
+
 - Multi-agent Collaborative Perception for Robotic Fleet: A Systematic Review - Apoorv Singh, Gaurav Raut, Alka Choudhary - Poster
 - RP3D: A Roadside Perception Framework for 3D Object Detection via Multi-View Sensor Fusion - Shaowu Zheng, Ruyi Huang, Yuan Ji, Ming Ye, Weihua Li - Oral
 - StreamLTS: Query-based Temporal-Spatial LiDAR Fusion for Cooperative Object Detection - Yunshuang Yuan, Monika Sester - Poster
@@ -275,5 +281,14 @@ If you have any questions, please contact us at: coop-intelligence@googlegroups.
 </div>
 
 
-### Sponsors (TBD)
+### Sponsors
 &nbsp;
+
+<div class="grid">
+    <div class="gridorg-item">
+        <figure>
+        <a href="https://www.didiglobal.com/science/intelligent-driving/"><img src="assets/img/sponsors/didi_logo.jpg" width="500"/></a>
+        <!-- <figcaption><b><a href="https://www.didiglobal.com/science/intelligent-driving">DIDI</a></b><br></figcaption> -->
+        </figure>
+    </div>
+</div>
