@@ -257,6 +257,7 @@ We accept 20 papers from submissions, including 6 orals. Paper list is as follow
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com/citations?user=1H5PwZkAAAAJ&hl">Weitao Zhou</a> (Tsinghua University)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://phyllish.github.io/">Yue Hu</a> (SJTU)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://shi.buaa.edu.cn/duanxuting/zh_CN/index.htm">Xuting Duan</a> (Beihang University)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://liang-zx.github.io/">Zhixuan Liang</a> (HKU)</p></div>
     </div>
     <div class="gridcom-item">
         <div><p><span>&#8226;&nbsp;</span><a href="https://ry-hao.top/">Ruiyang Hao</a> (Tsinghua University)</p></div>
