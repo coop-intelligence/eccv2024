@@ -97,7 +97,7 @@ We accept 20 papers from submissions, including 6 orals. Paper list is as follow
 - Optimization of Layer Skipping and Frequency Scaling for Convolutional Neural Networks under Latency Constraint - Minh David Thao Chan, Ruoyu Zhao, Yukuan Jia, Ruiqing Mao, Sheng Zhou - Poster
 - An Infrastructure-based Localization Method for Articulated Vehicles - Alberto Justo, Iker Pacho, Javier Araluce, Jesus Murgoitio, Luis M. Bergasa - Poster
 - HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles - Deyuan Qu, Qi Chen, Yongqi Zhu, Yihao Zhu, Sergei S. Avedisov, Song Fu, Qing Yang - Poster
-- Rethinking Infrastructure in Collaborative Perception - Hyunchul Bae, Minhee Kang, Minwoo Song, Heejin Ahn - Oral
+- Rethinking the Role of Infrastructure in Collaborative Perception - Hyunchul Bae, Minhee Kang, Minwoo Song, Heejin Ahn - Oral
 - Empowering Autonomous Shuttles with Next-Generation Infrastructure - Sven Ochs, Melih Yazgan, Rupert Polley, Albert Schotschneider, Stefan Orf, Marc Uecker, Maximilian Zipfl, Julian Burger, Abhishek Vivekanandan, Jennifer Amritzer, Marc Rene Zofka, J. Marius Zöllner - Oral
 - MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making - Yicheng Guo, Jiaqi Liu, Rongjie Yu, Peng Hang, Jian Sun - Oral
 - RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version) - Yao Mu, Tianxing Chen, Shijia Peng, Zanxin Chen, Zeyu Gao, Yude Zou, Lunkai Lin, Zhiqiang Xie - Oral
