@@ -284,6 +284,7 @@ We accept 20 papers from submissions, including 6 orals. Paper list is as follow
         <div><p><span>&#8226;&nbsp;</span><a href="https://jiachenli94.github.io/">Jiachen Li</a> (University of California, Riverside)</p></div>
         <div><p><span>&#8226;&nbsp;</span>Xiaopan Zhang (University of California, Riverside)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://www.linkedin.com/in/ghayoor-shah/">Ghayoor Shah</a> (University of Central Florida)</p></div>
+        <div><p><span>&#8226;&nbsp;</span>Hyunchul Bae (KAIST)</p></div>
     </div>
 </div>
 
