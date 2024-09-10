@@ -272,7 +272,6 @@ We accept 20 papers from submissions, including 6 orals. Paper list is as follow
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com.hk/citations?hl=en&user=nUyTDosAAAAJ&view_op=list_works&sortby=pubdate">Yilun Wang</a> (Tsinghua University)</p></div>
         <div><p><span>&#8226;&nbsp;</span>Deyuan Qu (UNT)</p></div>
         <div><p><span>&#8226;&nbsp;</span>Alberto Justo (Tecnalia Research & Innovation)</p></div>
-        <div><p><span>&#8226;&nbsp;</span><a href="https://liang-zx.github.io/">Zhixuan Liang</a> (HKU)</p></div>
     </div>
     <div class="gridcom-item">
         <div><p><span>&#8226;&nbsp;</span>Wenxian Yang (Tsinghua University)</p></div>
@@ -284,7 +283,7 @@ We accept 20 papers from submissions, including 6 orals. Paper list is as follow
         <div><p><span>&#8226;&nbsp;</span><a href="https://jiachenli94.github.io/">Jiachen Li</a> (University of California, Riverside)</p></div>
         <div><p><span>&#8226;&nbsp;</span>Xiaopan Zhang (University of California, Riverside)</p></div>
         <div><p><span>&#8226;&nbsp;</span><a href="https://www.linkedin.com/in/ghayoor-shah/">Ghayoor Shah</a> (University of Central Florida)</p></div>
-        <div><p><span>&#8226;&nbsp;</span>Hyunchul Bae (KAIST)</p></div>
+        <div><p><span>&#8226;&nbsp;</span><a href="https://www.linkedin.com/in/hyunchul-bae-a25a17314/">Hyunchul Bae</a> (KAIST)</p></div>
     </div>
 </div>
 
