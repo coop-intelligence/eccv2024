@@ -272,6 +272,7 @@ We accept 20 papers from submissions, including 6 orals. Paper list is as follow
         <div><p><span>&#8226;&nbsp;</span><a href="https://scholar.google.com.hk/citations?hl=en&user=nUyTDosAAAAJ&view_op=list_works&sortby=pubdate">Yilun Wang</a> (Tsinghua University)</p></div>
         <div><p><span>&#8226;&nbsp;</span>Deyuan Qu (UNT)</p></div>
         <div><p><span>&#8226;&nbsp;</span>Alberto Justo (Tecnalia Research & Innovation)</p></div>
+        <div><p><span>&#8226;&nbsp;</span>Lin Li (KCL)</p></div>
     </div>
     <div class="gridcom-item">
         <div><p><span>&#8226;&nbsp;</span>Wenxian Yang (Tsinghua University)</p></div>
