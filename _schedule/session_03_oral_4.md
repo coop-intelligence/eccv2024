@@ -1,9 +1,9 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
-sequence_id: 10
+sequence_id: 11
 
 # Speaker name
-speaker: /
+speaker: 
 
 # Title of the event
 title: "Empowering Autonomous Shuttles with Next-Generation Infrastructure (Oral Talk 4)"

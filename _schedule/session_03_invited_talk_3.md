@@ -1,6 +1,6 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
-sequence_id: 6
+sequence_id: 7
 
 # Speaker name
 speaker: Sheng Zhou, Tsinghua University
@@ -9,5 +9,5 @@ speaker: Sheng Zhou, Tsinghua University
 title: "Collaborative Perception under V2X Communication Limitations (Invited Talk 3)"
 
 # Time of the event
-time: 16:00 - 16:30
+time: 16:00 - 16:25
 ---

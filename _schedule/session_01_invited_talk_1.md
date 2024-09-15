@@ -9,5 +9,5 @@ speaker: Alois Knoll, TUM
 title: "TBD (Invited Talk 1)"
 
 # Time of the event
-time: 14:10 - 14:40
+time: 14:10 - 14:35
 ---
