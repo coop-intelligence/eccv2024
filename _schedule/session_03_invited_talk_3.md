@@ -6,7 +6,7 @@ sequence_id: 6
 speaker: Sheng Zhou, Tsinghua University
 
 # Title of the event
-title: "TBD (Invited Talk 3)"
+title: "Collaborative Perception under V2X Communication Limitations (Invited Talk 3)"
 
 # Time of the event
 time: 16:00 - 16:30
