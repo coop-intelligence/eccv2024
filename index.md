@@ -178,6 +178,12 @@ We accept 20 papers from submissions, including 6 orals. Paper list is as follow
         <figcaption><b><a href="https://www.borisivanovic.com/">Boris Ivanovic</a></b><br>Nvidia, USA</figcaption>
         </figure>
     </div>    
+    <div class="grid-item">
+        <figure>
+        <img src="assets\img\speakers\Federico_Tombari.jpg" width="200" />
+        <figcaption><b><a href="https://federicotombari.github.io//">Federico Tombari</a></b><br>Google, Switzerland</figcaption>
+        </figure>
+    </div>  
 </div>
 
 &nbsp;
