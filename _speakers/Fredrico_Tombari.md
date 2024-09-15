@@ -35,4 +35,3 @@ TBD
 
 <p><b> Speaker Bio </b></p>
 
-Boris Ivanovic is a Manager in NVIDIA's Autonomous Vehicle Research Group, conducting research in behavior modeling, simulation, and end-to-end autonomy.
