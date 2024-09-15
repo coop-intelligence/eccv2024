@@ -3,10 +3,10 @@
 sequence_id: 10
 
 # Speaker name
-speaker: Oral 4
+speaker: /
 
 # Title of the event
-title: TBD
+title: "Empowering Autonomous Shuttles with Next-Generation Infrastructure (Oral Talk 4)"
 
 # Time of the event
 time: 17:40 - 17:50

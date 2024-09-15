@@ -3,10 +3,10 @@
 sequence_id: 11
 
 # Speaker name
-speaker: Oral 5
+speaker: /
 
 # Title of the event
-title: TBD
+title: "MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs’ Cooperative Decision-Making (Oral Talk 5)"
 
 # Time of the event
 time: 17:50 - 18:00

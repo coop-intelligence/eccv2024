@@ -3,10 +3,10 @@
 sequence_id: 4
 
 # Speaker name
-speaker: Oral 2
+speaker: /
 
 # Title of the event
-title: TBD
+title: "Gen-Swarms: Adapting Deep Generative Models to Swarms of Drones (Oral Talk 2)"
 
 # Time of the event
 time: 15:20 - 15:30

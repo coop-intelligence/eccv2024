@@ -3,10 +3,10 @@
 sequence_id: 1
 
 # Speaker name
-speaker: Invited Talk 1
+speaker: Alois Knoll, TUM
 
 # Title of the event
-title: TBD
+title: "TBD (Invited Talk 1)"
 
 # Time of the event
 time: 14:10 - 14:40

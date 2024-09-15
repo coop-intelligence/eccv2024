@@ -3,10 +3,10 @@
 sequence_id: 7
 
 # Speaker name
-speaker: Invited Talk 4
+speaker: Manabu Tsukada, Toykyo University
 
 # Title of the event
-title: TBD
+title: "TBD (Invited Talk 4)"
 
 # Time of the event
 time: 16:30 - 17:00

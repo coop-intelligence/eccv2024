@@ -3,10 +3,10 @@
 sequence_id: 6
 
 # Speaker name
-speaker: Invited Talk 3
+speaker: Sheng Zhou, Tsinghua University
 
 # Title of the event
-title: TBD
+title: "TBD (Invited Talk 3)"
 
 # Time of the event
 time: 16:00 - 16:30

@@ -3,10 +3,10 @@
 sequence_id: 12
 
 # Speaker name
-speaker: Oral 6
+speaker: /
 
 # Title of the event
-title: TBD
+title: "RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (Oral Talk 6)"
 
 # Time of the event
 time: 18:00 - 18:10
