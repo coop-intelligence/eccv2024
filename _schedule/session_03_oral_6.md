@@ -1,12 +1,12 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
-sequence_id: 12
+sequence_id: 13
 
 # Speaker name
-speaker: Oral 6
+speaker: 
 
 # Title of the event
-title: TBD
+title: "RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (Oral Talk 6)"
 
 # Time of the event
 time: 18:00 - 18:10

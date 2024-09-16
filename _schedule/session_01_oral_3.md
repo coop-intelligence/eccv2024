@@ -1,13 +1,13 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
-sequence_id: 2
+sequence_id: 5
 
 # Speaker name
-speaker: Ma Jiaqi, UCLA
+speaker: 
 
 # Title of the event
-title: "TBD (Invited Talk 2)"
+title: "Rethinking the Role of Infrastructure in Collaborative Perception (Oral Talk 3)"
 
 # Time of the event
-time: 14:35 - 15:00
+time: 15:20 - 15:30
 ---

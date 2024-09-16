@@ -1,13 +1,13 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
-sequence_id: 9
+sequence_id: 10
 
 # Speaker name
-speaker: Oral 3
+speaker: Fredrico Tombari, Google
 
 # Title of the event
-title: TBD
+title: "TBD (Invited Talk 6)"
 
 # Time of the event
-time: 17:30 - 17:40
+time: 17:15 - 17:40
 ---

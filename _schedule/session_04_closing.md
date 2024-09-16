@@ -1,13 +1,14 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
-sequence_id: 2
+sequence_id: 14
 
 # Speaker name
-speaker: Ma Jiaqi, UCLA
+# speaker: Organizers
 
 # Title of the event
-title: "TBD (Invited Talk 2)"
+wide_title: Closed Remarks and Best Paper Award
 
 # Time of the event
-time: 14:35 - 15:00
+time: 18:10 - 18:15
 ---
+
