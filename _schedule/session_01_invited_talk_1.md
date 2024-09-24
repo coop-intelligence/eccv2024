@@ -6,7 +6,7 @@ sequence_id: 1
 speaker: Alois Knoll, TUM
 
 # Title of the event
-title: "TBD (Invited Talk 1)"
+title: "A9 Test Field for Cooperative Autonomous Driving - Using Intelligent Infrastructure Systems to Create Digital Twins of the Traffic (Invited Talk 1)"
 
 # Time of the event
 time: 14:10 - 14:35

@@ -6,7 +6,7 @@ sequence_id: 2
 speaker: Ma Jiaqi, UCLA
 
 # Title of the event
-title: "TBD (Invited Talk 2)"
+title: "A V2X Multi-agent Future of Mobility with Cooperative Vehicles and Infrastructure (Invited Talk 2)"
 
 # Time of the event
 time: 14:35 - 15:00
