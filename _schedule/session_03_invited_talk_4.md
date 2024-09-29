@@ -6,7 +6,7 @@ sequence_id: 8
 speaker: Manabu Tsukada, Toykyo University
 
 # Title of the event
-title: "TBD (Invited Talk 4)"
+title: "Cooperative Autonomous Mobility through Open Standards and Real-World Experiments (Invited Talk 4)"
 
 # Time of the event
 time: 16:25 - 16:50

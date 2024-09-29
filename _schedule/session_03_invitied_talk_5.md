@@ -6,7 +6,7 @@ sequence_id: 9
 speaker: Boris Ivanovic, Nvidia
 
 # Title of the event
-title: "TBD (Invited Talk 5)"
+title: "Revolutionizing Autonomous Vehicle Development with Foundation Models (Invited Talk 5)"
 
 # Time of the event
 time: 16:50 - 17:15
