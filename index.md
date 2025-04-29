@@ -102,7 +102,7 @@ We accept 20 papers from submissions, including 6 orals. Paper list is as follow
 - MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making - Yicheng Guo, Jiaqi Liu, Rongjie Yu, Peng Hang, Jian Sun - Oral
 - RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version) - Yao Mu, Tianxing Chen, Shijia Peng, Zanxin Chen, Zeyu Gao, Yude Zou, Lunkai Lin, Zhiqiang Xie - Oral
 - iIPPC-V2X: Multi-modality Fusion Perception System for Cooperative Vehicle Infrastructure System with Self-supervised Learning - Guoyu Zhang, Rongjie Yu, Jian Sun, Peng Hang - Poster
-- Non-verbal Interaction and Interface with a Quadruped Robot using Body and Hand Gestures: Design and User Experience Evaluation - Soohyun Shin, Trevor Evetts, Hunter Saylor, Hyunji Kim, Soojin Woo, Wonhwha Rhee, Seong-Woo Kim - Poster
+- Non-verbal Interaction and Interface with a Quadruped Robot using Body and Hand Gestures: Design and User Experience Evaluation - Soohyun Shin, Trevor Evetts, Hunter Saylor, Hyunji Kim, Soojin Woo, Wonhwha Rhee, Seong-Woo Kim - Poster - <a href="https://arxiv.org/abs/2408.17066">arXiv Link</a>
 - Transfer Learning from Simulated to Real Scenes for Monocular 3D Object Detection - Sondos Mohamed, Walter Zimmer, Ross Greer, Ahmed Alaaeldin Ghita, Modesto Castrillón-Santana, Mohan Trivedi, Alois Knoll, Salvatore Mario Carta, Mirko Marras - Poster
 
 &nbsp;
