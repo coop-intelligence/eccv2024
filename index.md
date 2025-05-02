@@ -86,24 +86,24 @@ We accept 20 papers from submissions, including 6 orals. Paper list is as follow
 
 - Multi-agent Collaborative Perception for Robotic Fleet: A Systematic Review - Apoorv Singh, Gaurav Raut, Alka Choudhary - Poster
 - RP3D: A Roadside Perception Framework for 3D Object Detection via Multi-View Sensor Fusion - Shaowu Zheng, Ruyi Huang, Yuan Ji, Ming Ye, Weihua Li - Oral
-- StreamLTS: Query-based Temporal-Spatial LiDAR Fusion for Cooperative Object Detection - Yunshuang Yuan, Monika Sester - Poster
+- StreamLTS: Query-based Temporal-Spatial LiDAR Fusion for Cooperative Object Detection - Yunshuang Yuan, Monika Sester - Poster - <a href="https://arxiv.org/abs/2407.03825">arXiv Link</a>
 - GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest - Shilong Zhang, Peize Sun, Shoufa Chen, Min Xiao, Wenqi Shao, Wenwei Zhang, Yu Liu, Kai Chen, Ping Luo - Poster
 - SC-Track: State Transition and Constrained Non-negative Matrix Factorization for Multi-Camera Multi-Target Tracking - Xiaolong Yang, Xuting Duan, Jianshan Zhou, Chunmian Lin, XuHan - Poster
-- Gen-Swarms: Adapting Deep Generative Models to Swarms of Drones - Carlos Plou, Pablo Pueyo, Ruben Martinez-Cantin, Mac Schwager, Ana C. Murillo, Eduardo Montijano - Oral
+- Gen-Swarms: Adapting Deep Generative Models to Swarms of Drones - Carlos Plou, Pablo Pueyo, Ruben Martinez-Cantin, Mac Schwager, Ana C. Murillo, Eduardo Montijano - Oral - <a href="https://arxiv.org/abs/2408.15899">arXiv Link</a>
 - VICooper: A Practical Vehicle-Infrastructure Cooperative Perception Framework for Autonomous Driving - Shaowu Zheng, Ming Ye, Yuan Ji, Ruyi Huang, Weihua Li - Poster
-- MEDCO: Medical Education Copilots Based on A Multi-Agent Framework - Hao Wei, Jianing Qiu, Haibao Yu, Wu Yuan - Poster
+- MEDCO: Medical Education Copilots Based on A Multi-Agent Framework - Hao Wei, Jianing Qiu, Haibao Yu, Wu Yuan - Poster - <a href="https://arxiv.org/abs/2408.12496">arXiv Link</a>
 - V2X-Based Decentralized Singular Value Decomposition in Dynamic Vehicular Environment - Jianxin Zhao, Min-Bin Lin, Alexey Vinel - Poster
 - LLaMAPed: Multi-modal Pedestrian Crossing Intention Prediction - Je-Seok Ham, Sunghun Kim, Jia Huang, Peng Jiang, Jinyoung Moon, Srikanth Saripalli, Changick Kim - Poster
-- Optimization of Layer Skipping and Frequency Scaling for Convolutional Neural Networks under Latency Constraint - Minh David Thao Chan, Ruoyu Zhao, Yukuan Jia, Ruiqing Mao, Sheng Zhou - Poster
+- Optimization of Layer Skipping and Frequency Scaling for Convolutional Neural Networks under Latency Constraint - Minh David Thao Chan, Ruoyu Zhao, Yukuan Jia, Ruiqing Mao, Sheng Zhou - Poster - <a href="https://arxiv.org/abs/2503.24014">arXiv Link</a>
 - An Infrastructure-based Localization Method for Articulated Vehicles - Alberto Justo, Iker Pacho, Javier Araluce, Jesus Murgoitio, Luis M. Bergasa - Poster
-- HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles - Deyuan Qu, Qi Chen, Yongqi Zhu, Yihao Zhu, Sergei S. Avedisov, Song Fu, Qing Yang - Poster
+- HEAD: A Bandwidth-Efficient Cooperative Perception Approach for Heterogeneous Connected and Autonomous Vehicles - Deyuan Qu, Qi Chen, Yongqi Zhu, Yihao Zhu, Sergei S. Avedisov, Song Fu, Qing Yang - Poster - <a href="https://arxiv.org/abs/2408.15428">arXiv Link</a>
 - Rethinking the Role of Infrastructure in Collaborative Perception - Hyunchul Bae, Minhee Kang, Minwoo Song, Heejin Ahn - Oral - <a href="https://arxiv.org/abs/2410.11259">arXiv Link</a>
-- Empowering Autonomous Shuttles with Next-Generation Infrastructure - Sven Ochs, Melih Yazgan, Rupert Polley, Albert Schotschneider, Stefan Orf, Marc Uecker, Maximilian Zipfl, Julian Burger, Abhishek Vivekanandan, Jennifer Amritzer, Marc Rene Zofka, J. Marius Zöllner - Oral
+- Empowering Autonomous Shuttles with Next-Generation Infrastructure - Sven Ochs, Melih Yazgan, Rupert Polley, Albert Schotschneider, Stefan Orf, Marc Uecker, Maximilian Zipfl, Julian Burger, Abhishek Vivekanandan, Jennifer Amritzer, Marc Rene Zofka, J. Marius Zöllner - Oral - <a href="https://arxiv.org/abs/2410.20989">arXiv Link</a>
 - MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making - Yicheng Guo, Jiaqi Liu, Rongjie Yu, Peng Hang, Jian Sun - Oral
 - RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version) - Yao Mu, Tianxing Chen, Shijia Peng, Zanxin Chen, Zeyu Gao, Yude Zou, Lunkai Lin, Zhiqiang Xie - Oral
 - iIPPC-V2X: Multi-modality Fusion Perception System for Cooperative Vehicle Infrastructure System with Self-supervised Learning - Guoyu Zhang, Rongjie Yu, Jian Sun, Peng Hang - Poster
 - Non-verbal Interaction and Interface with a Quadruped Robot using Body and Hand Gestures: Design and User Experience Evaluation - Soohyun Shin, Trevor Evetts, Hunter Saylor, Hyunji Kim, Soojin Woo, Wonhwha Rhee, Seong-Woo Kim - Poster - <a href="https://arxiv.org/abs/2408.17066">arXiv Link</a>
-- Transfer Learning from Simulated to Real Scenes for Monocular 3D Object Detection - Sondos Mohamed, Walter Zimmer, Ross Greer, Ahmed Alaaeldin Ghita, Modesto Castrillón-Santana, Mohan Trivedi, Alois Knoll, Salvatore Mario Carta, Mirko Marras - Poster
+- Transfer Learning from Simulated to Real Scenes for Monocular 3D Object Detection - Sondos Mohamed, Walter Zimmer, Ross Greer, Ahmed Alaaeldin Ghita, Modesto Castrillón-Santana, Mohan Trivedi, Alois Knoll, Salvatore Mario Carta, Mirko Marras - Poster - <a href="https://arxiv.org/abs/2408.15637">arXiv Link</a>
 
 &nbsp;
 &nbsp;
